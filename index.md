@@ -1,10 +1,10 @@
 ---
 ---
 
-{% assign date = '2020-04-13T10:20:00Z' %}
+{% assign date = '2016-03-23T10:20:00Z' %}
 
-- Original date - {{ date }}
-- With timeago filter - {{ date | timeago }}
+- Original date - `{{ date }}`
+- With timeago filter - `{{ date | timeago: '2020-1-1' }}`
 
 # Fire Fly Engine   
 
