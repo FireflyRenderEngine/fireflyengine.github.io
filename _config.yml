@@ -1,5 +1,4 @@
 url: "https://fireflyrenderengine.github.io/fireflyengine.github.io"
-baseurl: "/home"
 
 markdown: kramdown
 theme: jekyll-theme-minimal
