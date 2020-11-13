@@ -1,6 +1,6 @@
 url: "https://fireflyrenderengine.github.io/fireflyengine.github.io"
 
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-timeago
